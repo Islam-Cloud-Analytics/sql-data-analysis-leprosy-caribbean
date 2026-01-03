@@ -1,0 +1,201 @@
+facility_id,facility_name,facility_type,subnational_id,is_public
+1,District 59 Rural Clinic 2,Rural Clinic,59,TRUE
+2,District 46 Health Centre 3,Health Centre,46,FALSE
+3,District 88 Public Hospital 5,Public Hospital,88,FALSE
+4,Eleuthera Health Centre 2,Health Centre,22,TRUE
+5,District 49 Rural Clinic 5,Rural Clinic,49,TRUE
+6,District 88 Rural Clinic 1,Rural Clinic,88,TRUE
+7,Manchester Rural Clinic 4,Rural Clinic,5,TRUE
+8,San Fernando Health Centre 5,Health Centre,9,FALSE
+9,La Romana Health Centre 4,Health Centre,41,TRUE
+10,District 83 Dermatology Unit 2,Dermatology Unit,83,TRUE
+11,St. George Health Centre 5,Health Centre,18,FALSE
+12,Essequibo Islands Dermatology Unit 5,Dermatology Unit,34,TRUE
+13,District 47 Health Centre 2,Health Centre,47,FALSE
+14,District 64 Public Hospital 1,Public Hospital,64,TRUE
+15,Grand Bahama Health Centre 4,Health Centre,20,FALSE
+16,San Fernando Dermatology Unit 4,Dermatology Unit,9,FALSE
+17,District 60 Rural Clinic 5,Rural Clinic,60,TRUE
+18,District 88 Public Hospital 5,Public Hospital,88,TRUE
+19,District 99 Rural Clinic 1,Rural Clinic,99,TRUE
+20,District 56 Health Centre 4,Health Centre,56,TRUE
+21,District 93 Rural Clinic 5,Rural Clinic,93,TRUE
+22,District 65 Public Hospital 3,Public Hospital,65,FALSE
+23,District 65 Health Centre 2,Health Centre,65,TRUE
+24,District 98 Health Centre 5,Health Centre,98,FALSE
+25,Kingston Rural Clinic 4,Rural Clinic,1,TRUE
+26,Christ Church Rural Clinic 3,Rural Clinic,15,TRUE
+27,Port of Spain Health Centre 5,Health Centre,8,TRUE
+28,Arima Dermatology Unit 1,Dermatology Unit,11,FALSE
+29,District 99 Health Centre 2,Health Centre,99,FALSE
+30,District 61 Health Centre 3,Health Centre,61,FALSE
+31,District 78 Dermatology Unit 2,Dermatology Unit,78,FALSE
+32,District 97 Health Centre 3,Health Centre,97,TRUE
+33,District 86 Rural Clinic 4,Rural Clinic,86,FALSE
+34,District 58 Public Hospital 2,Public Hospital,58,TRUE
+35,San Fernando Rural Clinic 1,Rural Clinic,9,FALSE
+36,District 71 Health Centre 5,Health Centre,71,TRUE
+37,Kingston Public Hospital 1,Public Hospital,1,TRUE
+38,San Fernando Public Hospital 3,Public Hospital,9,TRUE
+39,District 66 Health Centre 3,Health Centre,66,FALSE
+40,District 63 Health Centre 5,Health Centre,63,TRUE
+41,District 93 Dermatology Unit 2,Dermatology Unit,93,TRUE
+42,District 53 Health Centre 1,Health Centre,53,TRUE
+43,District 85 Dermatology Unit 3,Dermatology Unit,85,TRUE
+44,District 53 Dermatology Unit 1,Dermatology Unit,53,FALSE
+45,District 84 Public Hospital 1,Public Hospital,84,TRUE
+46,District 94 Rural Clinic 1,Rural Clinic,94,TRUE
+47,Gros Islet Health Centre 5,Health Centre,25,TRUE
+48,St. George Dermatology Unit 2,Dermatology Unit,18,TRUE
+49,District 60 Health Centre 1,Health Centre,60,TRUE
+50,District 71 Public Hospital 1,Public Hospital,71,FALSE
+51,District 70 Public Hospital 1,Public Hospital,70,TRUE
+52,Eleuthera Dermatology Unit 4,Dermatology Unit,22,TRUE
+53,Saint George Dermatology Unit 1,Dermatology Unit,28,TRUE
+54,District 49 Public Hospital 4,Public Hospital,49,TRUE
+55,District 59 Rural Clinic 4,Rural Clinic,59,FALSE
+56,District 94 Dermatology Unit 2,Dermatology Unit,94,TRUE
+57,Santo Domingo Health Centre 1,Health Centre,38,FALSE
+58,District 95 Public Hospital 3,Public Hospital,95,TRUE
+59,St. Ann Dermatology Unit 5,Dermatology Unit,7,FALSE
+60,Abaco Public Hospital 5,Public Hospital,21,TRUE
+61,Castries Public Hospital 5,Public Hospital,24,TRUE
+62,District 87 Health Centre 4,Health Centre,87,TRUE
+63,District 73 Health Centre 5,Health Centre,73,FALSE
+64,St. James Public Hospital 4,Public Hospital,6,FALSE
+65,District 75 Rural Clinic 3,Rural Clinic,75,TRUE
+66,District 86 Rural Clinic 2,Rural Clinic,86,TRUE
+67,District 51 Health Centre 3,Health Centre,51,TRUE
+68,La Romana Public Hospital 1,Public Hospital,41,TRUE
+69,District 80 Public Hospital 1,Public Hospital,80,FALSE
+70,Saint George Rural Clinic 2,Rural Clinic,28,TRUE
+71,San Fernando Health Centre 3,Health Centre,9,TRUE
+72,Abaco Dermatology Unit 5,Dermatology Unit,21,FALSE
+73,Santiago Public Hospital 5,Public Hospital,39,TRUE
+74,District 85 Public Hospital 2,Public Hospital,85,TRUE
+75,Christ Church Public Hospital 5,Public Hospital,15,TRUE
+76,Saint John Rural Clinic 5,Rural Clinic,35,TRUE
+77,District 92 Rural Clinic 2,Rural Clinic,92,FALSE
+78,District 82 Rural Clinic 5,Rural Clinic,82,TRUE
+79,Upper Demerara-Berbice Public Hospital 1,Public Hospital,33,FALSE
+80,District 55 Rural Clinic 1,Rural Clinic,55,TRUE
+81,Nord Health Centre 3,Health Centre,43,TRUE
+82,District 95 Dermatology Unit 5,Dermatology Unit,95,FALSE
+83,District 55 Public Hospital 1,Public Hospital,55,TRUE
+84,District 89 Health Centre 5,Health Centre,89,TRUE
+85,District 48 Health Centre 4,Health Centre,48,TRUE
+86,St. James Rural Clinic 3,Rural Clinic,6,TRUE
+87,District 46 Health Centre 2,Health Centre,46,FALSE
+88,St. Michael Rural Clinic 5,Rural Clinic,14,TRUE
+89,District 80 Health Centre 2,Health Centre,80,TRUE
+90,Exuma Dermatology Unit 1,Dermatology Unit,23,TRUE
+91,District 95 Rural Clinic 4,Rural Clinic,95,FALSE
+92,District 95 Health Centre 3,Health Centre,95,TRUE
+93,District 90 Public Hospital 4,Public Hospital,90,TRUE
+94,District 61 Health Centre 2,Health Centre,61,TRUE
+95,Artibonite Rural Clinic 2,Rural Clinic,45,TRUE
+96,Clarendon Health Centre 4,Health Centre,4,TRUE
+97,Saint Paul Public Hospital 3,Public Hospital,36,TRUE
+98,District 83 Dermatology Unit 5,Dermatology Unit,83,TRUE
+99,Clarendon Public Hospital 3,Public Hospital,4,TRUE
+100,District 75 Rural Clinic 1,Rural Clinic,75,TRUE
+101,District 77 Dermatology Unit 3,Dermatology Unit,77,FALSE
+102,La Romana Dermatology Unit 5,Dermatology Unit,41,FALSE
+103,Christ Church Dermatology Unit 5,Dermatology Unit,15,TRUE
+104,Upper Demerara-Berbice Public Hospital 4,Public Hospital,33,TRUE
+105,District 67 Health Centre 3,Health Centre,67,TRUE
+106,San Fernando Rural Clinic 5,Rural Clinic,9,TRUE
+107,District 85 Public Hospital 3,Public Hospital,85,FALSE
+108,La Altagracia Dermatology Unit 3,Dermatology Unit,40,TRUE
+109,District 90 Rural Clinic 5,Rural Clinic,90,TRUE
+110,Gros Islet Dermatology Unit 4,Dermatology Unit,25,FALSE
+111,District 96 Health Centre 5,Health Centre,96,FALSE
+112,Santiago Dermatology Unit 5,Dermatology Unit,39,TRUE
+113,Santiago Rural Clinic 2,Rural Clinic,39,TRUE
+114,District 75 Rural Clinic 4,Rural Clinic,75,TRUE
+115,District 57 Health Centre 5,Health Centre,57,TRUE
+116,District 95 Health Centre 1,Health Centre,95,TRUE
+117,District 66 Rural Clinic 1,Rural Clinic,66,TRUE
+118,District 87 Rural Clinic 2,Rural Clinic,87,TRUE
+119,New Providence Public Hospital 1,Public Hospital,19,TRUE
+120,District 61 Public Hospital 4,Public Hospital,61,TRUE
+121,District 81 Health Centre 4,Health Centre,81,TRUE
+122,District 52 Health Centre 2,Health Centre,52,FALSE
+123,District 89 Public Hospital 1,Public Hospital,89,TRUE
+124,Saint Andrew Health Centre 5,Health Centre,29,TRUE
+125,St. Ann Health Centre 1,Health Centre,7,TRUE
+126,St. George Dermatology Unit 5,Dermatology Unit,18,FALSE
+127,District 77 Rural Clinic 4,Rural Clinic,77,FALSE
+128,District 93 Dermatology Unit 5,Dermatology Unit,93,TRUE
+129,Abaco Dermatology Unit 4,Dermatology Unit,21,TRUE
+130,District 97 Health Centre 3,Health Centre,97,FALSE
+131,District 63 Health Centre 3,Health Centre,63,TRUE
+132,Chaguanas Rural Clinic 2,Rural Clinic,10,TRUE
+133,Nord Rural Clinic 5,Rural Clinic,43,TRUE
+134,St. George Health Centre 2,Health Centre,18,TRUE
+135,District 89 Health Centre 2,Health Centre,89,TRUE
+136,District 54 Dermatology Unit 3,Dermatology Unit,54,FALSE
+137,District 60 Dermatology Unit 1,Dermatology Unit,60,TRUE
+138,District 54 Dermatology Unit 5,Dermatology Unit,54,FALSE
+139,St. Catherine Dermatology Unit 4,Dermatology Unit,3,TRUE
+140,District 46 Rural Clinic 4,Rural Clinic,46,TRUE
+141,District 69 Health Centre 4,Health Centre,69,TRUE
+142,Saint John Dermatology Unit 4,Dermatology Unit,35,TRUE
+143,District 50 Rural Clinic 4,Rural Clinic,50,FALSE
+144,Eleuthera Dermatology Unit 2,Dermatology Unit,22,FALSE
+145,District 69 Public Hospital 4,Public Hospital,69,FALSE
+146,District 73 Public Hospital 1,Public Hospital,73,FALSE
+147,District 55 Health Centre 4,Health Centre,55,TRUE
+148,St. Ann Rural Clinic 4,Rural Clinic,7,TRUE
+149,Saint George Dermatology Unit 3,Dermatology Unit,28,TRUE
+150,District 98 Dermatology Unit 3,Dermatology Unit,98,TRUE
+151,Upper Demerara-Berbice Public Hospital 4,Public Hospital,33,TRUE
+152,District 96 Public Hospital 3,Public Hospital,96,TRUE
+153,District 84 Public Hospital 1,Public Hospital,84,TRUE
+154,Demerara-Mahaica Health Centre 1,Health Centre,32,FALSE
+155,Grand Bahama Health Centre 2,Health Centre,20,TRUE
+156,District 86 Public Hospital 5,Public Hospital,86,TRUE
+157,District 60 Rural Clinic 3,Rural Clinic,60,TRUE
+158,District 78 Public Hospital 2,Public Hospital,78,TRUE
+159,St. Michael Public Hospital 3,Public Hospital,14,FALSE
+160,District 87 Dermatology Unit 4,Dermatology Unit,87,FALSE
+161,Soufriere Public Hospital 5,Public Hospital,26,FALSE
+162,District 81 Health Centre 1,Health Centre,81,FALSE
+163,District 99 Rural Clinic 5,Rural Clinic,99,TRUE
+164,District 73 Public Hospital 3,Public Hospital,73,FALSE
+165,District 55 Rural Clinic 1,Rural Clinic,55,FALSE
+166,District 83 Rural Clinic 1,Rural Clinic,83,TRUE
+167,District 63 Public Hospital 4,Public Hospital,63,TRUE
+168,District 82 Dermatology Unit 2,Dermatology Unit,82,TRUE
+169,Exuma Rural Clinic 5,Rural Clinic,23,FALSE
+170,District 100 Dermatology Unit 4,Dermatology Unit,100,TRUE
+171,District 94 Rural Clinic 3,Rural Clinic,94,TRUE
+172,Tobago Rural Clinic 4,Rural Clinic,12,TRUE
+173,District 97 Dermatology Unit 5,Dermatology Unit,97,FALSE
+174,District 86 Dermatology Unit 3,Dermatology Unit,86,TRUE
+175,District 64 Rural Clinic 2,Rural Clinic,64,TRUE
+176,Saint George Rural Clinic 3,Rural Clinic,28,TRUE
+177,Saint Paul Rural Clinic 5,Rural Clinic,36,TRUE
+178,District 67 Health Centre 1,Health Centre,67,TRUE
+179,District 93 Dermatology Unit 4,Dermatology Unit,93,FALSE
+180,District 98 Health Centre 4,Health Centre,98,FALSE
+181,District 92 Dermatology Unit 4,Dermatology Unit,92,TRUE
+182,Tobago Rural Clinic 2,Rural Clinic,12,TRUE
+183,District 89 Health Centre 3,Health Centre,89,FALSE
+184,District 75 Rural Clinic 4,Rural Clinic,75,FALSE
+185,District 68 Rural Clinic 4,Rural Clinic,68,FALSE
+186,District 71 Rural Clinic 3,Rural Clinic,71,FALSE
+187,District 59 Rural Clinic 3,Rural Clinic,59,TRUE
+188,Saint Patrick Public Hospital 2,Public Hospital,30,TRUE
+189,St. James Health Centre 2,Health Centre,16,TRUE
+190,District 95 Dermatology Unit 3,Dermatology Unit,95,FALSE
+191,District 76 Rural Clinic 1,Rural Clinic,76,TRUE
+192,Santo Domingo Health Centre 3,Health Centre,38,TRUE
+193,Santiago Public Hospital 5,Public Hospital,39,TRUE
+194,Saint Paul Public Hospital 1,Public Hospital,36,FALSE
+195,Santo Domingo Health Centre 4,Health Centre,38,TRUE
+196,St. Andrew Rural Clinic 4,Rural Clinic,2,TRUE
+197,District 57 Rural Clinic 2,Rural Clinic,57,TRUE
+198,Upper Demerara-Berbice Dermatology Unit 1,Dermatology Unit,33,TRUE
+199,District 52 Dermatology Unit 1,Dermatology Unit,52,FALSE
+200,District 81 Public Hospital 2,Public Hospital,81,TRUE

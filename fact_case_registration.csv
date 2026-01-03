@@ -1,0 +1,201 @@
+registration_id,patient_id,facility_id,registration_date_id,classification_id,registration_type,who_disability_grade,detected_via
+1,55,88,20220922,50,New Case,0,Voluntary
+2,20,76,20200726,130,Transfer In,0,Household Contact
+3,87,197,20230619,34,Transfer In,2,Voluntary
+4,42,47,20231119,198,Transfer In,0,Household Contact
+5,113,12,20220421,94,Transfer In,0,Active Screening
+6,157,73,20220708,60,Transfer In,0,Active Screening
+7,121,50,20220123,174,Transfer In,2,Active Screening
+8,197,73,20220221,129,Transfer In,2,Voluntary
+9,52,155,20201010,65,New Case,2,Active Screening
+10,142,27,20231227,133,New Case,1,Voluntary
+11,196,42,20210712,116,Transfer In,0,Active Screening
+12,24,57,20220712,90,New Case,2,Voluntary
+13,102,129,20220204,61,Relapse,0,Active Screening
+14,58,8,20211014,26,Transfer In,1,Voluntary
+15,36,10,20210810,121,Transfer In,0,Household Contact
+16,121,115,20230614,2,New Case,0,Active Screening
+17,56,39,20230128,187,Transfer In,2,Voluntary
+18,199,74,20210501,78,New Case,0,Voluntary
+19,108,164,20230629,118,New Case,0,Active Screening
+20,153,138,20200203,162,Transfer In,0,Household Contact
+21,37,75,20220529,1,Transfer In,1,Voluntary
+22,147,107,20210118,171,Transfer In,0,Household Contact
+23,93,18,20221213,140,Transfer In,0,Active Screening
+24,121,12,20230725,100,Relapse,1,Household Contact
+25,5,92,20200518,89,New Case,0,Household Contact
+26,189,194,20211111,35,New Case,1,Household Contact
+27,87,165,20201224,200,Transfer In,2,Household Contact
+28,123,162,20210108,35,New Case,2,Voluntary
+29,76,52,20200330,52,New Case,1,Active Screening
+30,132,102,20230117,122,Relapse,0,Household Contact
+31,49,74,20220101,200,New Case,1,Active Screening
+32,32,95,20220613,103,Transfer In,2,Active Screening
+33,87,48,20221013,178,Relapse,1,Household Contact
+34,69,22,20220519,21,Relapse,0,Household Contact
+35,76,83,20200729,21,Relapse,1,Active Screening
+36,115,155,20220522,43,Transfer In,2,Active Screening
+37,115,11,20211223,158,Relapse,1,Household Contact
+38,15,20,20231006,164,Relapse,1,Household Contact
+39,192,174,20201123,8,New Case,2,Voluntary
+40,33,18,20210428,200,Transfer In,1,Active Screening
+41,99,146,20200307,155,New Case,2,Active Screening
+42,96,114,20200606,147,New Case,1,Active Screening
+43,81,167,20210724,64,New Case,0,Household Contact
+44,48,128,20221126,100,Transfer In,0,Active Screening
+45,199,67,20231212,115,New Case,1,Household Contact
+46,126,52,20200908,35,New Case,2,Voluntary
+47,183,114,20200628,175,Relapse,1,Household Contact
+48,17,141,20230115,75,Relapse,0,Household Contact
+49,182,180,20230730,45,Relapse,0,Voluntary
+50,52,36,20210429,127,New Case,1,Household Contact
+51,147,95,20220815,142,New Case,0,Voluntary
+52,80,102,20220907,135,Relapse,2,Household Contact
+53,19,33,20211011,165,New Case,2,Active Screening
+54,175,133,20211206,33,Transfer In,0,Voluntary
+55,111,129,20200423,32,Transfer In,0,Active Screening
+56,43,42,20211022,182,New Case,1,Household Contact
+57,73,21,20210528,51,Transfer In,1,Voluntary
+58,161,78,20230612,137,New Case,0,Household Contact
+59,149,40,20201216,169,Transfer In,1,Household Contact
+60,11,8,20200615,12,Transfer In,1,Household Contact
+61,54,197,20230317,107,Transfer In,0,Active Screening
+62,161,140,20210816,165,Relapse,2,Voluntary
+63,176,104,20210901,117,New Case,0,Voluntary
+64,113,107,20220918,119,New Case,1,Household Contact
+65,37,81,20211015,188,Relapse,2,Voluntary
+66,195,95,20221120,144,New Case,1,Voluntary
+67,120,32,20210701,116,New Case,0,Voluntary
+68,13,75,20220225,158,Relapse,0,Voluntary
+69,84,148,20211002,49,New Case,2,Household Contact
+70,120,128,20210923,128,New Case,0,Active Screening
+71,130,118,20210508,56,Transfer In,1,Voluntary
+72,13,73,20221010,153,Transfer In,2,Active Screening
+73,138,3,20200808,111,New Case,1,Household Contact
+74,94,196,20220405,94,New Case,2,Voluntary
+75,146,144,20210202,93,Transfer In,1,Voluntary
+76,99,130,20220711,196,Transfer In,1,Household Contact
+77,175,157,20200831,33,New Case,2,Active Screening
+78,87,143,20220118,194,New Case,0,Household Contact
+79,131,103,20221021,11,New Case,0,Voluntary
+80,183,86,20220828,133,Relapse,0,Household Contact
+81,132,36,20211102,157,Relapse,0,Active Screening
+82,158,190,20210904,152,Relapse,2,Household Contact
+83,145,77,20220830,5,Relapse,1,Household Contact
+84,29,107,20230410,79,Transfer In,0,Household Contact
+85,122,68,20230904,199,Transfer In,0,Household Contact
+86,14,150,20220910,44,Transfer In,2,Voluntary
+87,175,63,20200305,147,Transfer In,0,Voluntary
+88,5,113,20211004,108,New Case,2,Household Contact
+89,53,106,20221024,199,Transfer In,2,Household Contact
+90,187,16,20231216,36,Transfer In,0,Household Contact
+91,84,170,20220906,135,Relapse,1,Voluntary
+92,118,137,20211202,140,Relapse,1,Household Contact
+93,124,50,20210519,72,Transfer In,1,Voluntary
+94,77,198,20210814,181,New Case,2,Active Screening
+95,123,90,20230221,185,Relapse,1,Voluntary
+96,147,174,20230117,98,Relapse,1,Voluntary
+97,75,11,20210812,183,New Case,1,Active Screening
+98,168,66,20220908,55,New Case,1,Household Contact
+99,179,70,20201008,28,Transfer In,0,Voluntary
+100,13,172,20221223,58,Transfer In,0,Voluntary
+101,26,106,20211107,184,Relapse,0,Household Contact
+102,198,36,20200111,141,New Case,2,Household Contact
+103,122,123,20230825,52,Relapse,1,Active Screening
+104,166,16,20200702,167,Transfer In,0,Household Contact
+105,190,186,20200317,45,Relapse,0,Voluntary
+106,102,127,20210116,192,Relapse,0,Voluntary
+107,77,146,20230519,28,Relapse,1,Active Screening
+108,165,140,20221209,127,New Case,2,Active Screening
+109,50,29,20211108,42,Transfer In,2,Household Contact
+110,66,184,20210116,4,Transfer In,1,Active Screening
+111,146,173,20210130,45,Transfer In,2,Active Screening
+112,132,84,20200626,103,Transfer In,0,Voluntary
+113,36,123,20211024,64,New Case,1,Active Screening
+114,61,115,20210630,85,Relapse,0,Active Screening
+115,168,93,20231119,61,New Case,0,Active Screening
+116,79,41,20220410,176,Transfer In,1,Household Contact
+117,31,164,20210827,95,Transfer In,0,Voluntary
+118,35,123,20201109,117,Transfer In,1,Active Screening
+119,180,141,20220822,194,Transfer In,0,Voluntary
+120,175,194,20230505,21,Transfer In,2,Household Contact
+121,181,93,20200608,145,New Case,0,Household Contact
+122,130,52,20230318,138,New Case,0,Active Screening
+123,134,114,20200826,175,New Case,2,Voluntary
+124,131,115,20200423,117,New Case,2,Active Screening
+125,145,15,20230218,119,Transfer In,1,Household Contact
+126,6,102,20210605,1,Transfer In,0,Household Contact
+127,19,12,20220517,89,Transfer In,0,Household Contact
+128,16,18,20220824,9,Relapse,2,Voluntary
+129,197,35,20230806,187,Transfer In,2,Active Screening
+130,98,115,20220212,97,New Case,0,Household Contact
+131,90,31,20201231,138,Relapse,0,Household Contact
+132,58,1,20200216,77,Relapse,2,Household Contact
+133,98,59,20210521,118,Relapse,0,Active Screening
+134,49,186,20200819,9,Transfer In,2,Household Contact
+135,197,5,20210507,53,New Case,0,Household Contact
+136,9,115,20230509,173,Transfer In,0,Voluntary
+137,190,12,20220403,113,New Case,0,Voluntary
+138,36,129,20210815,60,Transfer In,1,Household Contact
+139,154,198,20231009,83,New Case,1,Voluntary
+140,170,134,20210328,106,Relapse,1,Voluntary
+141,143,152,20201224,161,Transfer In,2,Household Contact
+142,127,13,20211206,165,Transfer In,2,Household Contact
+143,82,179,20220502,105,New Case,1,Active Screening
+144,48,194,20230106,122,New Case,0,Active Screening
+145,182,37,20220806,15,Transfer In,2,Active Screening
+146,143,136,20201001,100,New Case,1,Voluntary
+147,85,166,20200610,116,Relapse,0,Household Contact
+148,186,49,20200415,69,Relapse,0,Voluntary
+149,49,195,20230418,186,Transfer In,0,Active Screening
+150,54,86,20210912,4,New Case,0,Household Contact
+151,31,192,20220907,63,Transfer In,0,Active Screening
+152,62,142,20211020,199,Relapse,2,Active Screening
+153,137,167,20220105,79,Relapse,1,Household Contact
+154,128,120,20200720,185,Relapse,1,Voluntary
+155,95,81,20220427,12,Transfer In,0,Household Contact
+156,38,5,20210618,142,Transfer In,2,Active Screening
+157,40,51,20211106,59,Relapse,0,Active Screening
+158,141,168,20231103,87,Relapse,2,Household Contact
+159,165,190,20221001,118,New Case,1,Voluntary
+160,36,185,20230124,126,New Case,0,Household Contact
+161,9,20,20230930,13,New Case,2,Voluntary
+162,162,60,20200519,182,New Case,0,Voluntary
+163,130,117,20220203,16,Transfer In,2,Household Contact
+164,125,5,20200114,137,Transfer In,2,Voluntary
+165,5,136,20210716,138,Relapse,0,Household Contact
+166,179,173,20220531,46,New Case,0,Household Contact
+167,39,62,20210128,159,Transfer In,1,Active Screening
+168,69,102,20200610,96,Relapse,2,Household Contact
+169,63,179,20210407,77,Transfer In,0,Household Contact
+170,167,195,20200305,24,Relapse,2,Active Screening
+171,142,122,20200424,164,New Case,0,Voluntary
+172,128,112,20230813,85,Transfer In,0,Household Contact
+173,11,59,20210308,178,Transfer In,2,Active Screening
+174,12,20,20231102,72,Transfer In,0,Voluntary
+175,81,5,20210228,151,New Case,2,Voluntary
+176,77,42,20230228,62,Transfer In,2,Household Contact
+177,139,85,20220225,194,Transfer In,0,Household Contact
+178,186,21,20221022,191,Relapse,0,Voluntary
+179,112,60,20200604,88,Transfer In,2,Active Screening
+180,8,163,20210713,116,Relapse,0,Active Screening
+181,142,97,20220603,48,Transfer In,2,Voluntary
+182,198,159,20210827,64,Transfer In,0,Voluntary
+183,69,40,20220217,183,Transfer In,0,Household Contact
+184,100,82,20220108,28,New Case,0,Active Screening
+185,114,93,20210706,27,New Case,0,Voluntary
+186,111,115,20230214,143,Transfer In,2,Voluntary
+187,7,23,20211225,142,New Case,1,Active Screening
+188,4,75,20220427,100,New Case,0,Household Contact
+189,134,44,20231104,98,New Case,0,Active Screening
+190,78,69,20221006,38,New Case,0,Active Screening
+191,71,108,20210905,124,New Case,1,Active Screening
+192,64,185,20230704,127,Transfer In,0,Active Screening
+193,28,35,20210915,2,Relapse,1,Household Contact
+194,98,85,20220620,86,Relapse,0,Active Screening
+195,83,155,20231124,52,Relapse,1,Voluntary
+196,102,82,20210819,189,Transfer In,2,Household Contact
+197,63,84,20220209,72,Relapse,1,Voluntary
+198,145,52,20230427,140,New Case,0,Household Contact
+199,119,182,20210305,113,Relapse,0,Active Screening
+200,173,128,20201012,163,Relapse,0,Active Screening
