@@ -35,13 +35,21 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 ---
 
 ## 🖼️ Project Previews
-*Insert your screenshots here using the syntax below:*
 
-![Dashboard Overview](docs/image_e2ca98.png)
-*Figure 1: Treatment Efficiency Map & Regional Stats*
+![Dashboard Overview](Power BI Dashboards/Average of Treatment Adherence.png)
+*Figure 1: Power BI Dashboards/Average of Treatment Adherences*
 
-![Demographics](docs/image_e2caf8.png)
+![Demographics](Power BI Dashboards/Patients Distribution by Gender.png
 *Figure 2: Gender and Country Distribution Analysis*
+
+![Dashboard Overview](Power BI Dashboards/Detection Methods Performance.png)
+*Figure 3: Detection Methods Performance*
+
+![Dashboard Overview] (Power BI Dashboards/Hospitals Succcess Rate.png)
+*Figure 4: Hospitals Treatment Success Rate (Public vs private)*
+
+![Dashboard Overview](Power BI Dashboards/Treatment Efficiency Perentage by Country.png)
+*Figure 5: Treatment Efficiency Percentage by Country
 
 ---
 
