@@ -36,20 +36,20 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 
 ## 🖼️ Project Previews
 
-![Dashboard Overview](Power BI Dashboards/Average of Treatment Adherence.png)
-*Figure 1: Power BI Dashboards/Average of Treatment Adherences*
+![Dashboard Overview](Power%20BI%20Dashboards/Average%20of%20Treatment%20Adherence.png)
+*Figure 1: Average of Treatment Adherence*
 
-![Demographics](Power BI Dashboards/Patients Distribution by Gender.png
+![Demographics](Power%20BI%20Dashboards/Patients%20Distribution%20by%20Gender.png)
 *Figure 2: Gender and Country Distribution Analysis*
 
-![Dashboard Overview](Power BI Dashboards/Detection Methods Performance.png)
+![Detection Methods](Power%20BI%20Dashboards/Detection%20Methods%20Performance.png)
 *Figure 3: Detection Methods Performance*
 
-![Dashboard Overview] (Power BI Dashboards/Hospitals Succcess Rate.png)
-*Figure 4: Hospitals Treatment Success Rate (Public vs private)*
+![Success Rate](Power%20BI%20Dashboards/Hospitals%20Succcess%20Rate.png)
+*Figure 4: Hospitals Treatment Success Rate (Public vs Private)*
 
-![Dashboard Overview](Power BI Dashboards/Treatment Efficiency Perentage by Country.png)
-*Figure 5: Treatment Efficiency Percentage by Country
+![Treatment Efficiency](Power%20BI%20Dashboards/Treatment%20Efficiency%20Perentage%20by%20Country.png)
+*Figure 5: Treatment Efficiency Percentage by Country*
 
 ---
 
