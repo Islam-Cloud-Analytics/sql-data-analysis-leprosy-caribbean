@@ -54,10 +54,9 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 ---
 
 ## 📁 Repository Structure
-* `📂 notebooks/` - SQL ETL scripts for Gold layer transformation.
-* `📂 pbi_report/` - .pbix file (Note: Requires Databricks connection).
+* `📂 Gold Layer (permanent Views)/` - SQL ETL scripts for Gold layer transformation.
+* `📂 Silver Layer (Denormalized tables)/` - Tables ready to be worked on for further enrichment and insights.
+* `📂 Power BI report/` - .pbix file (Note: Requires Databricks connection).
+* `📂 Power BI Dashboards/` - High-res screenshots and project documentation.
 * `📂 docs/` - High-res screenshots and project documentation.
-
 ---
-
-**Would you like me to help you write the SQL `CREATE TABLE` statements for your Gold layer based on your Power BI field list?**
