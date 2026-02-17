@@ -22,15 +22,25 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 ## 📊 Dashboard Insights
 
 ### 1. Treatment Efficiency by Country
-* **Metric:** Success rate percentage vs. total treatments.
-* **Key Finding:** Identifies regional performance gaps across the Caribbean.
+| Metric | Detail |
+| :--- | :--- |
+| **Success Rate Range** | Treatment efficiency varies from 20% (Guyana) to 59.4% (The Bahamas) across the region. |
+| **Top Performers** | The Bahamas (59.4%), Barbados (58.8%), and Grenada (56.3%) demonstrate highest success rates. |
+| **Overall Regional Rate** | Aggregate success rate stands at 49% (98 successful treatments out of 200 total cases). |
 
 ### 2. Provider & Demographic Performance
 | Metric | Detail |
 | :--- | :--- |
-| **Public vs Private** | Public facilities show higher success rates (26.2%) than Private (11.1%). |
-| **Gender Split** | Analysis shows a nearly even distribution (51.5% Male / 48.5% Female). |
-| **Adherence** | Average treatment adherence remains stable around 80% across MDT regimens. |
+| **Public vs Private** | Public facilities achieve significantly higher success rates (26.2%) compared to private providers (11.1%). |
+| **Gender Distribution** | Patient distribution shows 51.5% Male (103 patients) and 48.5% Female (97 patients). |
+| **Treatment Adherence** | MDT-PB regimen shows 80.1% adherence while MDT-MB maintains 79.65% adherence. |
+
+### 3. Detection Methods & Case Registration
+| Metric | Detail |
+| :--- | :--- |
+| **Primary Detection** | Transfer-In cases represent 40% (36/90) of registrations, followed by New Cases at 34.4% (31/90). |
+| **Most Effective Method** | Active Screening and Household Contact tracing identify majority of cases across all registration types. |
+| **Case Severity** | Grade 0 disability accounts for 90 cases, Grade 1 for 55 cases, and Grade 2 for 55 cases at detection. |
 
 ---
 
