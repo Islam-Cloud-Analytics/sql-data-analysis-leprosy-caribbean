@@ -19,6 +19,20 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 
 ---
 
+## 📐 Data Model
+
+![Semantic Model]([./semantic%20model.png](https://github.com/Islam-Cloud-Analytics/sql-data-analysis-leprosy-caribbean/blob/main/Semantic%20Model.png))
+
+**Schema Design:**
+- **Fact Table:** `fact_treatments` (grain: one row per treatment event)
+- **Dimensions:** `dim_patients`, `dim_countries`, `dim_facilities`, `dim_dates`
+- **Relationships:** 1:many from dimensions to fact table
+- **Measures:** Treatment success rate, adherence percentage, case counts
+
+This star schema enables efficient slicing and dicing across multiple dimensions for analytics.
+
+---
+
 ## 📊 Dashboard Insights
 
 ### 1. Treatment Efficiency by Country
@@ -41,25 +55,6 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 | **Primary Detection** | Transfer-In cases represent 40% (36/90) of registrations, followed by New Cases at 34.4% (31/90). |
 | **Most Effective Method** | Active Screening and Household Contact tracing identify majority of cases across all registration types. |
 | **Case Severity** | Grade 0 disability accounts for 90 cases, Grade 1 for 55 cases, and Grade 2 for 55 cases at detection. |
-
----
-
-## 🖼️ Project Previews
-
-![Dashboard Overview](Power%20BI%20Dashboards/Average%20of%20Treatment%20Adherence.png)
-*Figure 1: Average of Treatment Adherence*
-
-![Demographics](Power%20BI%20Dashboards/Patients%20Distribution%20by%20Gender.png)
-*Figure 2: Gender and Country Distribution Analysis*
-
-![Detection Methods](Power%20BI%20Dashboards/Detection%20Methods%20Performance.png)
-*Figure 3: Detection Methods Performance*
-
-![Success Rate](Power%20BI%20Dashboards/Hospitals%20Succcess%20Rate.png)
-*Figure 4: Hospitals Treatment Success Rate (Public vs Private)*
-
-![Treatment Efficiency](Power%20BI%20Dashboards/Treatment%20Efficiency%20Perentage%20by%20Country.png)
-*Figure 5: Treatment Efficiency Percentage by Country*
 
 ---
 
