@@ -86,6 +86,21 @@
 
 ---
 
+## 🎯 Business Impact
+
+**Actionable  Insights:**
+- **Guyana intervention needed:** 20% success rate requires investigation and support
+- **Investigate public sector best practices:** Identify factors driving 2.4x better outcomes
+- **Early detection programs:** 40% transfer-in rate indicates need for improved screening
+- **Treatment adherence:** 80% adherence validates current protocols
+
+**Scalability:**
+- **Geographic expansion:** Add new countries without schema changes - just insert rows into dimension tables
+- **Real-time monitoring:** DirectQuery automatically displays latest data as it arrives (if you publish the report to Power BI Service and enable scheduled refresh)
+- **Historical analysis:** Shared dimensions ensure consistent definitions across time periods for accurate trending (e.g. year-over-year analysis)
+
+---
+
 ## 🚀 Tech Stack
 
 | Component | Technology |
@@ -137,28 +152,40 @@ sql-data-analysis-leprosy-caribbean/
 
 **Prerequisites:** Databricks workspace + Power BI Desktop
 ```bash
-# 1. Clone repository
+# Clone repository
 git clone https://github.com/Islam-Cloud-Analytics/sql-data-analysis-leprosy-caribbean
-
-# 2. Import SQL to Databricks
-# - Upload CSVs to DBFS
-# - Run Silver layer transformations
-# - Create Gold layer views
-
-# 3. Connect Power BI
-# - DirectQuery to Databricks
-# - Point to Gold layer tables
-# - Open leprosy-analysis.pbix
+cd sql-data-analysis-leprosy-caribbean
 ```
 
-📖 **[Detailed Setup →](Project%20Previews.md)**
+**Setup Steps:**
+1. **Import to Databricks**
+   - Upload CSVs to DBFS
+   - Run [Silver layer transformations](Silver%20Layer%20(Denormalized%20tables)/)
+   - Create [Gold layer views](Gold%20Layer%20(permanent%20Views)/)
+
+2. **Connect Power BI**
+   - Configure DirectQuery to Databricks
+   - Point to Gold layer tables
+   - Open `leprosy-analysis.pbix`
+
+3. **Start Analyzing**
+   - Slice and dice data across dimensions
+   - Create custom measures and calculated columns
+   - Build new visualizations for deeper insights
+
+📖 **[Detailed Setup Guide →](SETUP.md)**
 
 ---
 
 ## 📊 Sample Queries
 
-**Treatment success by country:**
+Explore the SQL transformations powering the dashboards:
+
+**[Gold Layer SQL Scripts →](Gold%20Layer%20(permanent%20Views)/)** - Fact and dimension table definitions
+
+**Example Query:**
 ```sql
+-- Treatment success by country
 SELECT country, 
        success_rate_percent,
        total_treatments
@@ -166,45 +193,19 @@ FROM treatment_efficiency_per_country
 ORDER BY success_rate_percent DESC;
 ```
 
-**Public vs Private comparison:**
-```sql
-SELECT facility_type,
-       AVG(success_rate_percent) as avg_success_rate,
-       COUNT(*) as sample_size
-FROM pblc_vs_prvt_treatment
-GROUP BY facility_type;
-```
-
----
-
-## 🎯 Business Impact
-
-**Policy Insights:**
-- **Guyana intervention needed:** 20% success rate requires investigation and support
-- **Investigate public sector best practices:** Identify factors driving 2.4x better outcomes
-- **Early detection programs:** 40% transfer-in rate indicates need for improved screening
-- **Treatment adherence:** 80% adherence validates current protocols
-
-**Scalability:**
-- Schema supports expansion to additional countries
-- Real-time dashboards enable ongoing monitoring
-- Dimension consistency allows historical trending
-
 ---
 
 ## ⚠️ Important Notes
 
 - Power BI dashboard requires active Databricks connection
 - All patient data is anonymized and aggregated
-- Contact for demo access or collaboration
-
 ---
 
 ## 📫 Contact
 
 Built as part of my data engineering portfolio.
 
-**[LinkedIn](#)** | **[Portfolio](#)** | **[Email](#)**
+**[LinkedIn](https://www.linkedin.com/in/islamzayd/)** | **[AWS Cloud Project](https://github.com/Islam-Cloud-Analytics/aws-cloud-learning-journey)**
 
 ---
 
