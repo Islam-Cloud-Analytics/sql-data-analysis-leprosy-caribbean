@@ -21,7 +21,7 @@ A data engineering and analytics project leveraging **Databricks** for ETL and *
 
 ## 📐 Data Model
 
-![Semantic Model]([./semantic%20model.png](https://github.com/Islam-Cloud-Analytics/sql-data-analysis-leprosy-caribbean/blob/main/Semantic%20Model.png))
+![Semantic Model](https://github.com/Islam-Cloud-Analytics/sql-data-analysis-leprosy-caribbean/blob/main/Semantic%20Model.png)
 
 **Schema Design:**
 - **Fact Table:** `fact_treatments` (grain: one row per treatment event)
